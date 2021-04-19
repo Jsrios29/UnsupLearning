@@ -1,0 +1,89 @@
+Calculation Details:
+gamma = 0.5
+maxIter = 5
+trans = normalize
+loss = quadratic
+rank = 10
+train time =  3 hours
+Results:
+Accuracy = 62.2%
+TN, TP, FN, FP = 568k, 1,402K, 638K, 566K
+///////////////////////////////////////////
+Calculation Details:
+gamma = 0.5
+maxIter = 15
+trans = normalize
+loss = quadratic
+rank = 10
+train time = 3.5 Hours
+Results: 
+Accuracy = 62.35 %
+TN, TP, FN, FP = 577k, 1401k, 637k, 557k
+///////////////////////////////////////////
+Calculation Details:
+gamma = 0.5
+maxIter = 30
+trans = normalize
+loss = quadratic
+rank = 10
+train time = 5 hours
+Results: 63.24 %
+Accuracy = 63.24%
+TN, TP, FN, FP = 573k, 1433k, 605k, 560k
+/////////////////////////////////////////
+Calculation Details:
+gamma = 0.5
+maxIter = 30
+trans = normalize
+loss = quadratic
+rank = 5
+train time = 4 hours
+Results: 
+Accuracy = 61.84%
+TN, TP, FN, FP = 570k, 1393k, 647k, 564k
+/////////////////////////////////////////
+Calculation Details:
+gamma = 0.5
+maxIter = 60
+trans = normalize
+loss = quadratic
+rank = 5
+train time = 5 hours
+Results: 
+Accuracy = 64.76
+TN, TP, FN, FP = 609k, 1446k, 593k, 525k
+/////////////////////////////////////////
+Calculation Details:
+gamma = 0.5
+maxIter = 400
+trans = normalize
+loss = quadratic
+rank = 10
+train time = 7 hours
+Results: 
+Accuracy = 67.48 %
+TN, TP, FN, FP = 66.4k, 321.6k, 45.9k, 141k
+/////////////////////////////////////////
+Calculation Details:
+gamma = 0.5
+maxIter = 150
+trans = normalize
+loss = quadratic
+rank = 50
+train time = 8 hours
+Results: 
+Accuracy = 0.678
+TN, TP, FN, FP = 37,066, 92558, 28976, 31834
+/////////////////////////////////////////
+Calculation Details:
+gamma = 0.5
+maxIter = 150
+trans = normalize
+loss = quadratic
+rank = 100
+train time = 13 hours
+Results: 
+Accuracy = 68.05 %
+TN, TP, FN, FP = 22983, 106609, 14925, 45917
+
+
