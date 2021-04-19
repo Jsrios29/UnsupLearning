@@ -1,0 +1,136 @@
+Epochs: 3
+HiddenUnits: 100
+alpha = 0.01/batchSize
+batchSize = 1000
+Final validation rate = 0.607851410241463
+TN = 106551
+TP = 1822508
+FN = 217468
+FP = 1027043
+/////////////////////////////////////////
+Epochs: 3
+HiddenUnits: 100
+alpha = 0.01/batchSize
+batchSize = 1000
+Final validation rate = 0.6827701925591684
+TN = 540409
+TP = 1626410
+FN = 413566
+FP = 593185
+*note - here we went back to -1, 1 as correct/incorrect, use median as threshold(very sensitive)
+/////////////////////////////////////////
+Epochs: 3
+HiddenUnits: 50
+alpha = 0.01/batchSize
+batchSize = 1000
+Final validation rate = 0.6871838339787684
+TN = 534208
+TP = 1646618
+FN = 393358
+FP = 599386
+/////////////////////////////////////////
+Epochs: 3
+HiddenUnits: 150
+alpha = 0.01/batchSize
+batchSize = 1000
+Final validation rate = 0.6879025828956034
+TN = 534938
+TP = 1648169
+FN = 391807
+FP = 598656
+/////////////////////////////////////////
+Epochs: 45
+HiddenUnits: 50
+alpha = 0.01/batchSize
+batchSize = 1000
+Final validation rate = 0.6687194547465473
+TN = 503145
+TP = 1619083
+FN = 420893
+FP = 630449
+note: training and validation set 1, acieves 68.08 when subtracting 0.0001
+/////////////////////////////////////////
+Epochs: 5
+HiddenUnits: 50
+alpha = 0.01/batchSize
+batchSize = 1000
+Final validation rate = 0.6853036170621729
+TN = 524956
+TP = 1649903
+FN = 390073
+FP = 608638
+/////////////////////////////////////////
+Epochs: 1
+HiddenUnits: 50
+alpha = 0.01/batchSize
+batchSize = 1000
+Final validation rate = 0.6810509930456867
+TN = 552965
+TP = 1608398
+FN = 431578
+FP = 580629
+/////////////////////////////////////////
+Epochs: 1
+HiddenUnits: 50
+alpha = 0.01 ### change back alpha
+batchSize = 1000
+Final validation rate = 0.6624612029985159
+TN = 527686
+TP = 1574681
+FN = 465295
+FP = 605908
+/////////////////////////////////////////
+Epochs: 5
+HiddenUnits: 50
+alpha = 0.001 ### change back alpha
+batchSize = 1000
+Final validation rate = 0.6539984938098105
+TN = 496577
+TP = 1578933
+FN = 461043
+FP = 637017
+/////////////////////////////////////////
+Epochs: 50
+HiddenUnits: 100
+alpha = 0.001 ### change back alpha
+batchSize = 1000
+Final validation rate = 0.6521289903799191
+TN = 487652
+TP = 1581925
+FN = 458051
+FP = 645942
+max = 0.9608934, mean = 0.11582761, min = 0.00063948176, median = 0.09675711
+Result ID = 1, uses train and val set 1
+/////////////////////////////////////////
+Epochs: 50
+HiddenUnits: 100
+alpha = 0.001 ### change back alpha
+batchSize = 1000
+Final validation rate = 0.6520599829214417
+TN = 488004
+TP = 1581354
+FN = 459696
+FP = 644516
+Result ID = 2, uses train and val set 2, mean = 0.11561411, min = 0.0007290, max = 0.9633106, med = 0.09678
+/////////////////////////////////////////
+Epochs: 50
+HiddenUnits: 100
+alpha = 0.001 ### change back alpha
+batchSize = 1000
+median = 0.0968, max = 0.9596, min = 0.0007710518, mean = 0.115875706
+Result ID = 3, uses train and val set 3, mean = 0.11561411, min = 0.0007290, max = 0.9633106, med = 0.09678
+
+
+
+
+
+/////////////////////////////////////////
+Epochs: 50
+HiddenUnits: 100
+alpha = 0.001 ### change back alpha
+batchSize = 1000
+median = 
+Result ID = 4, uses train and val set 3, mean = 0.11561411, min = 0.0007290, max = 0.9633106, med = 0.09678
+
+
+/////////////////////////////////////////
