@@ -4,7 +4,7 @@ Created on Thu Dec  3 21:01:20 2020
 
 The purpose is to adapt the code found here: https://github.com/srp98/Movie-Recommender-using-RBM/blob/master/Recommender_System.py
 
-The web-link shows an implementation of RBM for movie ratings, we can treat our data
+The web-link shows an implementation of RBM for movie ratings, we can treat our data similarly.
 
 @author: Juan Rios
 """
