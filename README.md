@@ -6,7 +6,7 @@ Description: This project used various unsupervised techniques for predicting st
 Files:
 1. GLRM_classifier.py - takes a trained model and classifies the student data
 2. HelperMethods.py - contains methods that aid in loading data
-3. RBM.py contains the main development, training, and testing of the Restricted Boltzmann Machine
+3. RBM.py - contains the main development, training, and testing of the Restricted Boltzmann Machine
 4. RBMVisualizer.mlx - matlab livescript file that visualises the results of the RBM
 5. RBM_results.txt - contains results for various runs of the RBM, with a description of parameters and confusion matrix
 6. Results Summary.txt - results for the GLRM
